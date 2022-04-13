@@ -12,5 +12,16 @@
 </a>
 
   
+<br>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="80"/>
+  
+  <b><i>I am an undergraduate student currently learning programming and statistics</i></b>
+  
+ 
+  
+  
+  
+  
+  
 
 <p  align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"> 
