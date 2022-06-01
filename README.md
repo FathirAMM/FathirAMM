@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hello, Hi , there !</b>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="10px">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" height="35>
   
   
   
