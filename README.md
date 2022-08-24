@@ -4,11 +4,11 @@
   
   
   <br>
-<a href="https://www.linkedin.com/in/mohamed-fathir-538951204/">
+<a href="https://www.linkedin.com/in/mohamed-fathir-538951204 /">
   <img align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   <a href="mailto:fathir.majeed@gmail.com">
-  <img align="center" alt="Utkarsh @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="center" alt="fathir @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
   
