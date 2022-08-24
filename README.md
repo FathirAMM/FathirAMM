@@ -23,7 +23,7 @@
 
   
   
-  <img src="https://github.com/FathirAMM/FathirAMM/blob/main/git.gif" width="80"/>
+  <img src="https://github.com/FathirAMM/FathirAMM/blob/main/git.gif" width="150"/>
   
   
   <b><i>I am an undergraduate student currently learning programming and statistics</i></b>
