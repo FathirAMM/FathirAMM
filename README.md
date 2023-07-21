@@ -58,6 +58,32 @@ Here are some of the projects I have worked on:
 - Bachelor of Science Honours in Information Technology and Management (Expected Graduation: 2024)
 - University: [University Of Colombo]([https://www.youruniversity.edu](https://cmb.ac.lk/))
 
+## Certifications
+
+1. Spreadsheets for Beginners using Google Sheets - Coursera
+2. Programming for Everybody (Getting Started with Python) - Coursera
+3. Python Data Structures - Coursera
+4. Data Analytics Essentials - Coursera
+5. Excel Basics for Data Analysis - Coursera
+6. Data Visualization and Dashboards with Excel and Cognos - Coursera
+7. Lean Six Sigma White Belt Certification - Six Sigma Online; Aveta Business Institute
+8. Data Analysis and Visualization Foundations Specialization - Free Online Courses With Certificates
+9. Programming Essential in Python - Python Developer
+10. Microsoft Certified: Azure Fundamentals - Microsoft
+11. Introduction to Big Data - Coursera
+12. Introduction to Personal Branding - Coursera
+13. Introduction to Data Analytics - Coursera
+14. R Programming - Coursera
+15. Introduction to Machine Learning - Coursera
+16. Python for Data Science, AI & Development - Coursera
+17. Agile Software Development - Coursera
+18. AI For Everyone - Coursera
+19. Introduction to IoT - Cisco Networking Academy
+20. Introduction to Cybersecurity - Cisco Networking Academy
+21. Machine Learning with Python - Coursera
+22. Introduction to Deep Learning & Neural Networks with Keras - Coursera
+23. Introduction to Computer Vision and Image Processing - Coursera
+
 ## Hobbies
 
 In my free time, I enjoy:
@@ -68,5 +94,6 @@ In my free time, I enjoy:
 - Watching movies
 - Outdoor activities
 
-Feel free to connect with me on LinkedIn or drop me an email. I'm always open to interesting conversations and collaborations!
+  
+Feel free to connect with me on LinkedIn or drop me an email. I'm always open to interesting conversations and collaborations!🚀📚🎬🏞️
 
