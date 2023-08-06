@@ -40,8 +40,24 @@ Feel free to reach out if you have any questions, collaboration opportunities, o
 
 Here are some of the projects I have worked on:
 
-- 🔧 **Project 1:** [Link to Project 1](https://github.com/yourusername/project1)
-- 🔧 **Project 2:** [Link to Project 2](https://github.com/yourusername/project2)
+- 🔧 **Developing-my-Crazy-App:** [Link to Project 1](https://github.com/FathirAMM/Developing-my-Crazy-App)
+- 🔧 **simple python-calculator:** [Link to Project 2](https://github.com/FathirAMM/python-calculator)
+- 🔧 **python-mini-project-flames-app:** [Link to Project 3](https://github.com/FathirAMM/python-mini-project-flames-app)
+- 🔧 **python-tkinter-mini-projects:** [Link to Project 4](https://github.com/FathirAMM/python-tkinter-mini-projects)
+- 🔧 **simple-website-cake-shop-using-HTML-CSS:** [Link to Project 5](https://github.com/FathirAMM/simple-website-cake-shop-using-HTML-CSS)
+- 🔧 **Walmart retail sales analysis dashboard:** [Link to Project 6](https://github.com/FathirAMM/My-Tableau-Dashboard-projects/tree/main/Walmart%20Retail%20sales%20Analysis%20Dashboard)
+- 🔧 **Super retail sales data analysis:** [Link to Project 7](https://github.com/FathirAMM/My-Tableau-Dashboard-projects/tree/main/superstore%20sales%20analysis%20dashboard)
+- 🔧 **Covid-19 Live dashboard:** [Link to Project 8](https://github.com/FathirAMM/My-Tableau-Dashboard-projects/tree/main/covid19%20dashboard)
+- 🔧 **2nd-year-personal-portfolio-website-project:** [Link to Project 9](https://github.com/FathirAMM/2nd-year-personal-portfolio-website-project)
+- 🔧 **Java-Mini-Project tic tac toe:** [Link to Project 10](https://github.com/FathirAMM/Java-Mini-Project)
+- 🔧 **Time series analysis based on US consumption data set using R:** [Link to Project 11](https://github.com/FathirAMM/A-journey-with-R/tree/main/Time%20Series%20Analysis%20in%20R/Time%20series%20analysis%20%26%20ARIMA%20model%20fitting%20for%20usconsumption%20inbuilt%20data%20set%20of%20fpp%20pkg)
+- 🔧 **Timeseries Analysis based on Air Passenger inbuilt data set using R
+:** [Link to Project 12](https://github.com/FathirAMM/A-journey-with-R/tree/main/Time%20Series%20Analysis%20in%20R/Time%20series%20analysis%20based%20Airpassenger%20inbuilt%20dataset)
+- 🔧 **Regression-Analysis-in-Detail:** [Link to Project 13](https://github.com/FathirAMM/Regression-Analysis-in-Detail)
+- 🔧 **Diamond-dashboard:** [Link to Project 14](https://github.com/FathirAMM/Diamond-dashboard-)
+- 🔧 **Data Analysis on  placement of students from a management school in India.:** [Link to Project 15](https://github.com/FathirAMM/Data-Analysis-projects/blob/main/EDA.ipynb)
+- 🔧 **Data Analysis on boston house price:** [Link to Project 15]https://github.com/FathirAMM/Data-Analysis-projects/blob/main/Multiple%20Linear%20Regression%20Analysis(%20boston%20house%20price).ipynb)
+- 🔧 **Data Analysis on body fat data:** [Link to Project 16](https://github.com/FathirAMM/Data-Analysis-projects/blob/main/Multiple%20Linear%20Regression%20Analysis(Body%20fat%20data%20set).ipynb)
 
 ## Skills
 
