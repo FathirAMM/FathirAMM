@@ -27,11 +27,11 @@
 ---
 ## About Me
 
-🚀 I'm a **Data Science & Data Engineering** enthusiastic undergraduate student passionate about **programming** and **statistics**. I enjoy **exploring new technologies** and **solving complex problems**. Currently, I am focusing on expanding my knowledge in various programming languages and data analysis.
+🚀 I'm a **Data Science & AI** enthusiastic undergraduate student passionate about **programming** and **statistics**. I enjoy **exploring new technologies** and **solving complex problems**. Currently, I am focusing on expanding my knowledge in various programming languages and data analysis.
 
 ## Contact Me
 
-- 📩 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohamed-fathir-538951204)
+- 📩 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/mohamed-fathir-538951204](https://www.linkedin.com/in/mohamed-fathir-538951204))
 - 📧 Email: fathir.majeed@gmail.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hello! 🤝
@@ -62,7 +62,7 @@ Here are some of the projects I have worked on:
 ## Skills
 
 - 💻 **Programming Languages:** Python, Java, R
-- 📊 **Data Analysis:** Pandas, NumPy, SQL
+- 📊 **Data Analysis:** Pandas, NumPy, SQL, Matplotlib, Seaborn
 - 🌐 **Web Development:** HTML, CSS, JavaScript, PHP
 - 🗃️ **Version Control:** Git, GitHub, BitBucket
 - 🖥️ **Operating System:** Linux, Windows
