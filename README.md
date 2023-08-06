@@ -56,7 +56,7 @@ Here are some of the projects I have worked on:
 - 🔧 **Regression-Analysis-in-Detail:** [Link to Project 13](https://github.com/FathirAMM/Regression-Analysis-in-Detail)
 - 🔧 **Diamond-dashboard:** [Link to Project 14](https://github.com/FathirAMM/Diamond-dashboard-)
 - 🔧 **Data Analysis on  placement of students from a management school in India.:** [Link to Project 15](https://github.com/FathirAMM/Data-Analysis-projects/blob/main/EDA.ipynb)
-- 🔧 **Data Analysis on boston house price:** [Link to Project 15]https://github.com/FathirAMM/Data-Analysis-projects/blob/main/Multiple%20Linear%20Regression%20Analysis(%20boston%20house%20price).ipynb)
+- 🔧 **Data Analysis on boston house price:** [Link to Project 15](https://github.com/FathirAMM/Data-Analysis-projects/blob/main/Multiple%20Linear%20Regression%20Analysis(%20boston%20house%20price).ipynb)
 - 🔧 **Data Analysis on body fat data:** [Link to Project 16](https://github.com/FathirAMM/Data-Analysis-projects/blob/main/Multiple%20Linear%20Regression%20Analysis(Body%20fat%20data%20set).ipynb)
 
 ## Skills
