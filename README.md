@@ -31,7 +31,7 @@
 
 ## Contact Me
 
-- 📩 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/mohamed-fathir-538951204](https://www.linkedin.com/in/mohamed-fathir-538951204))
+- 📩 LinkedIn: [LinkedIn Profile]([https://www.linkedin.com/in/mohamed-fathir-538951204](https://www.linkedin.com/in/mohamed-fathir-538951204)
 - 📧 Email: fathir.majeed@gmail.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to say hello! 🤝
