@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <b><i>I am an undergraduate student currently learning programming and statistics.</i></b>
+  <b><i>I am a Final year undergraduate passionate on Data science.</i></b>
 </p>
 
 
