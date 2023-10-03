@@ -14,9 +14,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/FathirAMM/FathirAMM/blob/main/git.gif" width="150">
-</p>
 
 <p align="center">
   <b><i>I am a Final year undergraduate passionate on Data science.</i></b>
