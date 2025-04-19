@@ -5,7 +5,7 @@
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
 🔭 Explore my [**Portfolio**](https://www.linkedin.com/in/mohamed-fathir-538951204/)  
-💼 Data Scientist at [<img src="https://kainovation.com/wp-content/uploads/2022/09/px-logo-copy-1024x679.webp" height="24">](https://kainovation.com)
+💼 Data Scientist at Kainovation [<img src="https://kainovation.com/wp-content/uploads/2022/09/px-logo-copy-1024x679.webp" height="24">](https://kainovation.com)
 
 🌱 Data & AI Enthusiast
 ---
