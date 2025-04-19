@@ -7,12 +7,7 @@
 🔭 Explore my [**Portfolio**](https://www.linkedin.com/in/mohamed-fathir-538951204/)  
 💼 Data Scientist at [<img src="https://kainovation.com/wp-content/uploads/2022/09/px-logo-copy-1024x679.webp" height="24">](https://kainovation.com)
 
-🌱 Currently diving deep into:  
-- Building **scalable multi-agent systems**  
-- Fine-tuning **foundation models**  
-- Integrating **generative AI** into production  
-- Practicing **ethical & responsible AI**
-
+🌱 Data & AI Enthusiast
 ---
 
 ### 📲 Connect With Me  
