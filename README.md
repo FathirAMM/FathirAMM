@@ -25,23 +25,22 @@
 
 ### 💻 Languages & Frameworks
 
-<img src="https://img.icons8.com/color/48/python--v1.png" title="Python" />
-<img src="https://img.icons8.com/doodle/48/r.png" title="R" />
-<img src="https://img.icons8.com/fluency/48/sql.png" title="SQL" />
-<img src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow" />
-<img src="https://img.icons8.com/fluency/48/pytorch.png" title="PyTorch" />
-<img src="https://img.icons8.com/color/48/pandas.png" title="Pandas" />
-<img src="https://img.icons8.com/color/48/numpy.png" title="NumPy" />
-<img src="https://img.icons8.com/color/48/power-bi.png" title="Power BI" />
-<img src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" title="Hadoop" />
-<img src="https://img.icons8.com/color/48/apache-spark.png" title="Apache Spark" />
-<img src="https://img.icons8.com/color/48/git.png" title="Git" />
-<img src="https://img.icons8.com/color/48/docker.png" title="Docker" />
-
----
+<img height="50" width="50" src="https://img.icons8.com/color/48/python--v1.png" title="Python"/>
+<img height="50" width="50" src="https://img.icons8.com/doodle/48/r.png" title="R"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/sql.png" title="SQL"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/tensorflow.png" title="TensorFlow"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/pytorch.png" title="PyTorch"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/pandas.png" title="Pandas"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/numpy.png" title="NumPy"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/power-bi.png" title="Power BI"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/hadoop-distributed-file-system.png" title="Hadoop"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/apache-spark.png" title="Apache Spark"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/git.png" title="Git"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/docker.png" title="Docker"/>
 
 ### ☁️ Cloud & Platforms
 
-<img src="https://img.icons8.com/fluency/48/azure-1.png" title="Azure" />
-<img src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS" />
-<img src="https://img.icons8.com/color/48/google-cloud.png" title="Google Cloud" />
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/azure-1.png" title="Azure"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/amazon-web-services.png" title="AWS"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/google-cloud.png" title="Google Cloud"/>
+
